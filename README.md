@@ -1,7 +1,7 @@
 # The-Final-One
 
 Dear Future CS Students…
-Hey, my name is Roselyn. If you're just starting your CS journey—welcome and buckle up! These past three years have been a wild ride filled with stress, laughter, and lessons I’ll carry for the rest of my life. I’ll just repeat it again in case you didn’t catch it... it will be a wild ride filled with a ton of STRESS! Here's a little something to help you survive and thrive through it.
+Hey, my name is Roselyn. If you're just starting your CS journey welcome and please buckle up! These past three years have been a wild ride filled with stress, laughter, and lessons I’ll carry for the rest of my life. I’ll just repeat it again in case you didn’t catch it... it will be a wild ride filled with a ton of STRESS! Here's a little something to help you survive and thrive through it.
 
 # What Do You Wish You Knew When You Started?
 I wish I knew that you don’t need to be a coding genius to succeed. You are here to learn! CS isn’t about being perfect, it's about trying whenever you fail. It’s about looking for as many solutions as possible. Trust me, it's okay not to understand everything right away. I went into AP with NO experience in the field, and here I am-with great grades and thriving through it all. I used to feel behind just because others “got it” faster, but I learned that everyone struggles at some point.
